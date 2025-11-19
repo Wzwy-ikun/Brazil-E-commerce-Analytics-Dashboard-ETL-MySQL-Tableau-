@@ -4,15 +4,16 @@ Data Engineering + BI Analytics Project (2016–2018)
 
 This project implements a full end-to-end data analytics pipeline, analyzing over 100,000+ records from the Brazilian E-commerce Public Dataset (Olist).
 
-It includes:
+```It includes:
 
 Python ETL → cleaning, transforming, normalizing, and slicing large CSV datasets
 
 MySQL Data Warehouse → relational modeling, optimized joins, aggregated metrics
 
 Tableau BI Dashboard → business insights, sales trends, user distribution & category analysis
-
+```
 最终成果是一个可直接用于 业务运营决策 / 面试展示 / 企业 BI Demo 的完整可视化仪表盘。
+
 🏗 2. Architecture Diagram
         Raw Olist CSV (100k+ rows)
                    │
